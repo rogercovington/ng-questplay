@@ -1,0 +1,4 @@
+git clone https://github.com/Nodeguardians/ng-questplay.git
+cd ng-questplay
+git remote set-url origin https://github.com/{rogercovington}/ng-questplay.git
+git push -u origin main
